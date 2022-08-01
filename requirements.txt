@@ -1,0 +1,7 @@
+Django
+django-crispy-forms
+Pillow
+dj-database-url
+django_heroku
+gunicorn
+whitenoise
